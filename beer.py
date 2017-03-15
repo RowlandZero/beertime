@@ -2,3 +2,6 @@
 
 print('Beer time')
 print('Again')
+
+
+print('End of File')
